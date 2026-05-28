@@ -42,7 +42,7 @@ export default function Home() {
       <div className="max-w-2xl mx-auto space-y-8">
         <header>
           <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight text-slate-900">
-            Fake News Classifier
+            Fake News Classifier - Riski Linardi Portfolio
           </h1>
           <p className="mt-3 text-slate-600 leading-relaxed">
             A BERT model fine-tuned on the PolitiFact fact-check dataset. Paste
