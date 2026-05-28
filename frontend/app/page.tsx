@@ -89,13 +89,13 @@ export default function Home() {
               <code className="text-xs px-1 py-0.5 rounded bg-slate-100">
                 transformers-interpret
               </code>
-              . Raw attention weights are deliberately not used — they are not a
-              reliable explanation signal for classification.
+              . Raw attention weights are deliberately not used because they are
+              not a reliable explanation signal for classification.
             </p>
             <p className="text-slate-500">
               This is a portfolio project. The model reflects the biases and
-              limitations of its training data and is not a substitute for
-              human fact-checking.
+              limitations of its training data and is not a substitute for human
+              fact-checking.
             </p>
           </div>
         </details>
